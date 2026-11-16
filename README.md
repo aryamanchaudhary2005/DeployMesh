@@ -420,10 +420,6 @@ DeployMesh was developed as a cloud-native deployment automation academic mini-p
 
 **Academic institution:** SRM Institute of Science and Technology
 
-**Reference project:** [CloudForge](https://github.com/RuchirSingh1000/cloudforge)
-
-Any reused source code remains subject to its original licensing and attribution requirements.
-
 ---
 
 ## Author
